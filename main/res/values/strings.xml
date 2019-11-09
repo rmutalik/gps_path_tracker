@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPSPathTracker</string>
+    <string name="title_activity_maps">GPS Path Tracker</string>
+</resources>
